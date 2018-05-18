@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Supreme Parakeet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 May 2018 23:44:08 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 18 May 2018 01:44:08 -0600</lastBuildDate>
     
 	<atom:link href="https://chpmnrssll.github.io/supreme-parakeet/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second Bar</title>
+      <link>https://chpmnrssll.github.io/supreme-parakeet/posts/second/</link>
+      <pubDate>Fri, 18 May 2018 01:44:08 -0600</pubDate>
+      
+      <guid>https://chpmnrssll.github.io/supreme-parakeet/posts/second/</guid>
+      <description>Bam Bag Bean Boo Yup.</description>
+    </item>
     
     <item>
       <title>First Foo</title>
@@ -17,7 +26,7 @@
       <pubDate>Thu, 17 May 2018 23:44:08 -0600</pubDate>
       
       <guid>https://chpmnrssll.github.io/supreme-parakeet/posts/first/</guid>
-      <description>Hello Baz! Whoa! I just found forestry.io!</description>
+      <description>Forestry.io Whoa! Hello baz. I just found forestry.io!</description>
     </item>
     
   </channel>
