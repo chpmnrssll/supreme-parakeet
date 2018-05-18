@@ -1,7 +1,7 @@
 ---
 title: Second Bar
 date: 2018-05-18 01:44:08 -0600
-thumbnail: ''
+thumbnail: "/uploads/2018/05/18/roadBlueSky.svg"
 
 ---
 ![](/uploads/2018/05/18/languageStandOff.gif)
