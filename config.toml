@@ -1,8 +1,8 @@
 baseURL = "https://chpmnrssll.github.io/supreme-parakeet/"
 languageCode = "en-us"
 publishDir = "docs"
-theme = "ananke"
-title = "My New Hugo Site"
+theme = "solit"
+title = "Supreme Parakeet"
 
 # [params]
 #   amp = true # enables amp features
