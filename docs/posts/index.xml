@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
+    <link>https://chpmnrssll.github.io/supreme-parakeet/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 May 2018 23:44:08 -0600</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chpmnrssll.github.io/supreme-parakeet/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://example.org/posts/first/</link>
+      <link>https://chpmnrssll.github.io/supreme-parakeet/posts/first/</link>
       <pubDate>Thu, 17 May 2018 23:44:08 -0600</pubDate>
       
-      <guid>http://example.org/posts/first/</guid>
+      <guid>https://chpmnrssll.github.io/supreme-parakeet/posts/first/</guid>
       <description>Hello Foo!</description>
     </item>
     

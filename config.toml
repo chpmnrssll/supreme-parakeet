@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://chpmnrssll.github.io/supreme-parakeet/"
 languageCode = "en-us"
 publishDir = "docs"
 theme = "ananke"
